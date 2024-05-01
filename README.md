@@ -30,8 +30,11 @@
 - **Conclusion 2 from the analysis**
 -  Regression  as - 0.7305678786021826, 0.8222557634804333
 -  Ridge as 0.7305677835613592, 0.8222184761073315
--  Lasso as 0.34427877798440887, 0.3577970304469219
+-  Lasso as 0.34427877798440887, 0.3577970304469219.
    training and test sets of x & y axis respectively.
+
+   Further analysis, For ridge, at alpha 10000 it reaches zero. For Lasso it is alpha value of 1 it reaches 0
+
 - Conclusion 3 from the analysis
 - Conclusion 4 from the analysis
 
